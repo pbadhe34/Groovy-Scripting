@@ -1,0 +1,23 @@
+application: "Sample App Config"
+version: "1.0.1"
+autoStart: true
+database:
+  url: "jdbc:db//localhost"
+services:
+- "aws"
+- "azure"
+environments:
+- name: "DEV"
+  active: true
+- name: "ACC"
+  active: true
+user:
+  firstName: "Baba"
+  alias: "test-user"
+  lastName: "Bhosale Arcade"
+  website: "http://www.agilesoft.in/"
+  address:
+    location: "Pune"
+    society:
+      name: "GuruKripa"
+      num: 3456 

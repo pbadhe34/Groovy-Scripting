@@ -1,0 +1,9 @@
+package com.data
+
+ class MyClass
+{
+ static main(args){
+    println "Inside myclass main"
+ }
+}
+  println "inside the test"

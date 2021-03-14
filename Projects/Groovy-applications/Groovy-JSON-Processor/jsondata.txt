@@ -1,0 +1,6 @@
+{
+"users":[
+{"user1":{"name":"Viju","age":22,"balance":456.75}},    {"user2":{"name":"Kaka","age":30,"balance":1500}},
+{"user3":{"name":"Sunil","age":37, "balance":1498.25}}
+ ]
+}
