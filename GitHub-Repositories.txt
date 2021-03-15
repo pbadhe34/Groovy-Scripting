@@ -1,0 +1,16 @@
+
+
+https://github.com/pbadhe34/Groovy-Scripting
+
+https://github.com/pbadhe34/Jenkins-Pipelines
+
+
+ ************************
+Git commnads to create and push contents to github repository
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/pbadhe34/Jenkins-Pipelines.git
+git push -u origin main
